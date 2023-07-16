@@ -59,7 +59,7 @@ const phrases = [
 'Door rahkar bhi paas ho tum',
 'Door rahkar bhi paas ho tum',
 'Pyar dimaag se tha lekin dil ke khaas ho tum',
-'............................................',
+'...',
 'I know it\'s too early 😅',
 'I wanted to be the first one to wish',
 'Happy Birthday Swati ❤'
